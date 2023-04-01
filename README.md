@@ -2,25 +2,29 @@
 
 Young engineer interested in **computational fluid dynamics**, **turbomachinery** and **machine learning**.
 
-### Working on
+### 💻 Currently working on 
 
 **datablade** - python code for the optimization of turbine blades
 
-### Main projects 🚀
+### 📚 Currently learning 
+
+**Machine learning** for turbomachinery application use
+
+### 🚀 Projects 
 
 - **turboLIB** - python module for the initial 3D design of a turbomachinery blade
 - **aeroHS** - fortran code for the incompressible and irrotational flow analysis around airfoil/s
 - **aeroWEISS** - matlab code for the analysis of the incompressible and irrotational flow analysis for 3D wing/s 
 - **NHE** - matlab code for the 1D analysis of the heat exchanger of a nozzle (P&W RL-10)
 
-### Skills 🛠️
+### 🛠️ Skills 
 
 - Turbomachinery blade optimization
 - Finite Volume Methods & CFD
 - Fortran programming 
 - Python programming 
 
-### Contact information 📫 
+### 📫 Contact information  
 
 - 📧 Email: antonio.pucc@gmail.com 
 - 🌐 Website: antoniopucciarelli.github.io 
