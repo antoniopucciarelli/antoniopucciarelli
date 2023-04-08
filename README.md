@@ -27,7 +27,7 @@ Young engineer interested in **computational fluid dynamics**, **turbomachinery*
 ### 📫 Contact information  
 
 - 📧 Email: antonio.pucc@gmail.com 
-- 🌐 Website: antoniopucciarelli.github.io 
+- 🌐 Website: [antoniopucciarelli.github.io](antoniopucciarelli.github.io)
 
 ### Additional information
 
