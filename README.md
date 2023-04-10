@@ -25,6 +25,12 @@ Young engineer interested in **computational fluid dynamics**, **turbomachinery*
 - Fortran programming
 - Python programming
 
+### 📔 Education
+
+- 🇮🇹 MSc in aeronautical engineering at Politecnico di Milano
+- 🇧🇪 Short training program in turbomachinery and machine learning at von Karman Institute for fluid dynamics
+- 🇮🇹 BSc in aerospace engineering at Politecnico di Milano
+
 ### 📫 Contact information 
 
 - 📧 Email: antonio.pucc@gmail.com 
