@@ -1,4 +1,11 @@
-## Hi there 👋
+<h1 align="left">
+    Hi there
+    <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+         alt="Waving hand animated gif"
+         height="35"
+         width="35" />
+    I am Antonio!
+</h1>
 
 Young engineer interested in **computational fluid dynamics**, **turbomachinery** and **machine learning**.
 
